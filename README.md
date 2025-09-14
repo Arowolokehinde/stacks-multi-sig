@@ -37,7 +37,7 @@ This repository contains a project for implementing a multisignature wallet on t
 
 1. Compile the Clarity contract:
     ```bash
-    clarity-cli check contracts/multisig.clar
+    clarinet check contracts/multisig.clar
     ```
 
 ### Interacting with the Contract
